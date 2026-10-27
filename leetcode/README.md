@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
