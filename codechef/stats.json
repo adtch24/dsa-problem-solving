@@ -1,20 +1,29 @@
 {
   "codechef": {
-    "solved": 1,
-    "star1": 1,
-    "star2_3": 0,
-    "star4_5": 0,
-    "star6_7": 0,
     "shas": {
       "ODDPWD - ODDPWD": {
+        "category": "star1",
+        "date": "2026-10-28T14:52:00.632Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "RHYDOOR - RHYDOOR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T14:52:00.632Z"
+        "date": "2026-10-28T14:52:17.269Z"
       }
-    }
+    },
+    "solved": 2,
+    "star1": 2,
+    "star2_3": 0,
+    "star4_5": 0,
+    "star6_7": 0
   }
 }
