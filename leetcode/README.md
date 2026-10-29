@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
