@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0069-sqrtx) |
 <!---LeetCode Topics End-->
