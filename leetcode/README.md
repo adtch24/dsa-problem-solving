@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0745-find-smallest-letter-greater-than-target) |
+| [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Math
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 <!---LeetCode Topics End-->
