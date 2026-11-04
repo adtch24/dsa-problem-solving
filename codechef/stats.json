@@ -1,0 +1,56 @@
+{
+  "codechef": {
+    "shas": {
+      "ALARMM - ALARMM": {
+        "category": "star1",
+        "date": "2026-10-28T15:35:44.724Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "EQLZR - EQLZR": {
+        "category": "star1",
+        "date": "2026-10-28T16:05:50.028Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "ODDPWD - ODDPWD": {
+        "category": "star1",
+        "date": "2026-10-28T14:52:00.632Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "RHYDOOR - RHYDOOR": {
+        "category": "star1",
+        "date": "2026-10-28T14:52:17.269Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "EVENODDS - EVENODDS": {
+        "difficulty": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level",
+        "category": "star1",
+        "displayText": "Beginner",
+        "date": "2026-11-04T14:38:57.083Z"
+      }
+    },
+    "solved": 5,
+    "star1": 5,
+    "star2_3": 0,
+    "star4_5": 0,
+    "star6_7": 0
+  }
+}
