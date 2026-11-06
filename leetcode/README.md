@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2058-concatenation-of-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [2058-concatenation-of-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
