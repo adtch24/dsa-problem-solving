@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 ## Queue
 |  |
 | ------- |
@@ -98,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [2048-build-array-from-permutation](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
