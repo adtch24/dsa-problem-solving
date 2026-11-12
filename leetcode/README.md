@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0745-find-smallest-letter-greater-than-target) |
+| [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
