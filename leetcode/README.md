@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2048-build-array-from-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0745-find-smallest-letter-greater-than-target) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
