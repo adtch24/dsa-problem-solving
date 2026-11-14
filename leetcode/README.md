@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0745-find-smallest-letter-greater-than-target) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
