@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
+| [1755-defuse-the-bomb](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2048-build-array-from-permutation) |
@@ -171,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
