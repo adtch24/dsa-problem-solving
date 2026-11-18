@@ -28,6 +28,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "MINRECT - MINRECT": {
+        "category": "star1",
+        "date": "2026-11-04T14:50:21.893Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "ODDPWD - ODDPWD": {
         "category": "star1",
         "date": "2026-10-28T14:52:00.632Z",
@@ -46,18 +55,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MINRECT - MINRECT": {
+      "SQUASH - SQUASH": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-04T14:50:21.893Z"
+        "date": "2026-11-18T14:54:03.397Z"
       }
     },
-    "solved": 6,
-    "star1": 6,
+    "solved": 7,
+    "star1": 7,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
