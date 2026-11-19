@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0015-3sum) |
+| [0056-merge-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2094-remove-stones-to-minimize-the-total) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0056-merge-intervals) |
 <!---LeetCode Topics End-->
