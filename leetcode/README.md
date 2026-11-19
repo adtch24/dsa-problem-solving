@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2876-number-of-employees-who-met-the-target) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0438-find-all-anagrams-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
