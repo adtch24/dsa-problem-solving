@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0438-find-all-anagrams-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 ## Queue
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1538-maximum-points-you-can-obtain-from-cards) |
