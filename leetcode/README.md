@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0506-relative-ranks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
@@ -201,4 +202,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
