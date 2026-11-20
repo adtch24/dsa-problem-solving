@@ -11,8 +11,7 @@ public:
         unordered_map<char,int>mp2;
         for(int i=0;i<s.size();i++)
         {
-            mp1[s[i]]++;
-            mp2[t[i]]++;
+            
             if(mp1[s[i]]!=mp2[t[i]])
             {
                 return false;
