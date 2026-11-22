@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1538-maximum-points-you-can-obtain-from-cards) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2556-convert-the-temperature) |
