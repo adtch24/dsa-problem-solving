@@ -122,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
+| [1610-xor-operation-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1610-xor-operation-in-an-array) |
 ## Interactive
 |  |
 | ------- |
