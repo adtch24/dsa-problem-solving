@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2383-add-two-integers) |
