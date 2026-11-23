@@ -10,13 +10,12 @@ public:
             }
         }
         int j=0;
-        int count1=0;
         while(s[j]!='b' && j<s.size())
         {
-            count1++;
+            count--;;
             j++;
         }
-        if(count==count1)
+        if(count==0)
         {
             return true;
         }
