@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1950-sign-of-the-product-of-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2058-concatenation-of-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1630-count-odd-numbers-in-an-interval-range) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2556-convert-the-temperature) |
 ## Bit Manipulation
