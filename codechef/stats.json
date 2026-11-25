@@ -10,6 +10,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "DBLDROP - DBLDROP": {
+        "category": "star1",
+        "date": "2026-11-25T14:42:49.629Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EQLZR - EQLZR": {
         "category": "star1",
         "date": "2026-10-28T16:05:50.028Z",
@@ -82,18 +91,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "DBLDROP - DBLDROP": {
+      "ROYALTOUR - ROYALTOUR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-25T14:42:49.629Z"
+        "date": "2026-11-25T15:13:48.611Z"
       }
     },
-    "solved": 10,
-    "star1": 10,
+    "solved": 11,
+    "star1": 11,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
