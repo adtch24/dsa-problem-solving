@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2556-convert-the-temperature) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
