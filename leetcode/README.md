@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0745-find-smallest-letter-greater-than-target) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0435-non-overlapping-intervals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2094-remove-stones-to-minimize-the-total) |
 ## Quicksort
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0789-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
