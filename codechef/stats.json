@@ -56,17 +56,26 @@
         "tier": "1★ Beginner Level"
       },
       "SQUASH - SQUASH": {
+        "category": "star1",
+        "date": "2026-11-18T14:54:03.397Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "PAWNRUSH - PAWNRUSH": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-18T14:54:03.397Z"
+        "date": "2026-11-25T14:34:07.793Z"
       }
     },
-    "solved": 7,
-    "star1": 7,
+    "solved": 8,
+    "star1": 8,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
