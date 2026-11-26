@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1580-shuffle-the-array) |
 | [1755-defuse-the-bomb](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1950-sign-of-the-product-of-an-array) |
