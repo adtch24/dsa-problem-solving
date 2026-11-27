@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1184-car-pooling) |
+| [1319-unique-number-of-occurrences](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1463-the-k-weakest-rows-in-a-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/0438-find-all-anagrams-in-a-string) |
+| [1319-unique-number-of-occurrences](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/1319-unique-number-of-occurrences) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adtch24/dsa-problem-solving/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
